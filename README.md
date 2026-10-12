@@ -1,6 +1,7 @@
-## Abstract (from thesis)
-Digital twins of the colon are essential for advancing robotic colonoscopy systems aimed at improving colorectal cancer detection. Their effectiveness relies on accurate segmentation from CT scans, which is particularly challenging in cases of collapsed or fluid-filled colons. These cases are common but often excluded from prior work, reducing dataset diversity. We present a pipeline that segments both collapsed and non-collapsed colons by combining semi-automatic label generation, a novel method for quantifying the degree of collapse, and an U-Net model. For collapsed cases, we further explore the use of non-rigid image registration to infer missing anatomy. Our segmentation model shows strong performance across varying insufflation states, outperforming manual annotations in some collapsed cases. While registration results in continuous colon shapes, some anatomical inaccuracies remain.
+# A Dataset of Colon Segmentations with varying degrees of collapse, and and an Open-Source Segmentation Model
 
+<div align="center">
 
-## TODO
-- need to change input/output directories for nnunet
+## Final dataset [TBA], Trained model [[HuggingFace - Model](https://huggingface.co/niclasclassen/segmentations-of-distended-and-collapsed-colons-from-ct-scans)], Raw model outputs [TBA], TotalSegmentator masks [TBA] Preprint [TBA], Publication [TBA]
+
+</div>
