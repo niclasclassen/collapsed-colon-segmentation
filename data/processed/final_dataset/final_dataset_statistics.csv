@@ -1,4 +1,4 @@
-filename,component_count,voxel_count,skeleton_size
+filename,component_id,voxel_count,skeleton_size
 colon_0002-prone.mha,1,266219.0,301
 colon_0002-prone.mha,2,2223898.0,3741
 colon_0002-supine.mha,1,2840048.0,4564
@@ -312,14 +312,12 @@ colon_0154-prone.mha,1,2323317.0,3676
 colon_0154-supine.mha,1,2131723.0,3569
 colon_0155-prone.mha,1,716762.0,774
 colon_0155-prone.mha,2,930865.0,1639
-colon_0155-supine.mha,1,1807582.0,4872
 colon_0156-prone.mha,1,1956195.0,8737
 colon_0156-supine.mha,1,2213367.0,6079
 colon_0157-prone.mha,1,1357762.0,1607
 colon_0157-supine.mha,1,232082.0,372
 colon_0157-supine.mha,2,943156.0,929
 colon_0157-supine.mha,3,8808.0,112
-colon_0158-supine.mha,1,2077519.0,8037
 colon_0159-prone.mha,1,2081976.0,3494
 colon_0159-supine.mha,1,2276743.0,3642
 colon_0160-prone.mha,1,1965536.0,2685
@@ -1475,7 +1473,6 @@ colon_0611-supine.mha,1,2112899.0,3271
 colon_0614-supine.mha,1,3778.0,124
 colon_0614-supine.mha,2,923545.0,8307
 colon_0616-prone.mha,1,931904.0,1980
-colon_0616-supine.mha,1,842748.0,1683
 colon_0619-prone.mha,1,866137.0,2298
 colon_0619-supine.mha,1,990512.0,2352
 colon_0620-prone.mha,1,2298353.0,2815
@@ -1564,7 +1561,6 @@ colon_0634-supine.mha,1,1743267.0,4918
 colon_0635-prone.mha,1,699600.0,2263
 colon_0635-prone.mha,2,1125352.0,1646
 colon_0635-supine.mha,1,1869308.0,3035
-colon_0636-prone.mha,1,1488201.0,4131
 colon_0636-supine.mha,1,82711.0,1516
 colon_0636-supine.mha,2,1144983.0,2863
 colon_0637-prone.mha,1,3733600.0,9382
