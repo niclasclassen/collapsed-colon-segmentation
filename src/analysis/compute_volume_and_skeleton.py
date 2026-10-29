@@ -54,7 +54,7 @@ def main():
     with open(args.output_path, mode="w", newline="") as csv_file:
         writer = csv.writer(csv_file)
         # Write the header row
-        writer.writerow(["filename", "component_count", "voxel_count", "skeleton_size"])
+        writer.writerow(["filename", "component_id", "voxel_count", "skeleton_size"])
 
         # Iterate over all .mha files in the folder
         for filename in sorted(os.listdir(args.input_dir)):
