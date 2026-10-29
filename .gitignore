@@ -2,6 +2,8 @@
 *.mha
 *.npz
 *.pkl
+*.b2nd
+*.pth
 
 # Mac OS-specific storage files
 .DS_Store
