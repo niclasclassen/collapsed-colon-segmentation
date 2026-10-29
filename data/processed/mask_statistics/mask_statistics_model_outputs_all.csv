@@ -1,4 +1,4 @@
-Filename,Component,Volume,Centerline Length
+filename,component,volume,skeleton_size
 colon_0808-supine.mha,1,1419546.0,3458
 colon_0585-prone.mha,1,1351188.0,2836
 colon_0602-prone.mha,1,1773676.0,3141
